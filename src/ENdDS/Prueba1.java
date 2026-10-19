@@ -3,8 +3,8 @@ package ENdDS;
 public class Prueba1 {
 
 	public static void main(String[] args) {
-		System.out.print("Hola mundo");
-
+		System.out.print("Adios mundo");
+		System.out.print(":(");
 	}
 
 }
